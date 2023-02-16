@@ -11,9 +11,15 @@
 ⚛ [React](https://reactjs.org/l)
 
 
+<div align="center">
+
+<a href="https://nimble-cajeta-f3f640.netlify.app/"><img alt="anime-finder" title="anime-finder" src="https://img.shields.io/badge/-Click here to see it live-fec5bb?style=for-the-badge"/></a>
+
+</div>
+
 
 
 # 🌸 Demo 🌸
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78863735/202901319-b3d782f1-a9a5-45c2-84b0-a3ca40fdb5d6.gif)
+![animefindergithub](https://user-images.githubusercontent.com/78863735/219367898-2ed2c56d-1755-48e5-a3cf-a87d49b43d35.gif)
