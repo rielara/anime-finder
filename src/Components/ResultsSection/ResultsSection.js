@@ -1,6 +1,6 @@
 import AnimeCard from "../AnimeCard/AnimeCard"
 import Input from "../Input/Input"
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import "./ResultsSection.css"
 
 
