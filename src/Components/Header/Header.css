@@ -10,13 +10,12 @@ h1 {
 
 
 .logo {
-    display: flex;
+    display: block;
     justify-content: center;
+    text-align: center;
     align-items: center;
-    margin: 0 auto;
-    padding: 0 auto;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
     max-height: 350px;
     max-width: 350px;
