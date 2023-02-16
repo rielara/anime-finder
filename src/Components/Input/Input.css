@@ -13,18 +13,24 @@
     transform: perspective(500px);
     transform-style: preserve-3d;
     background: #fff;
+    color: #000;
+    margin-top: 20px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 
 
 }
 
 #button-container {
     display: flex;
+    flex-direction: row;
     font-family: 'Roboto', sans-serif;
     gap : 10px;
     justify-content: center;
     align-items: center;
     margin-top: 1rem;
 }
+
 
 #button {
     
@@ -36,7 +42,8 @@
     border-radius: 20px;
     margin: 10px;
     box-shadow: 0px 10px 0px #1a1a1a;
-    color: black;
+    background-color: #eaf589;
+    color: #000;
     text-decoration: none;
     cursor: grab;
   }
@@ -47,6 +54,7 @@
     transition: 100ms ease;
     top: 8px;
     box-shadow: 0px 2px 0px #1a1a1a;
+    background-color: #c1c974;
   }
 
   #button1 {
@@ -56,6 +64,7 @@
   padding: 15px 25px;
   background-color: #cebebe;
   border: solid #1a1a1a 3px;
+  color: #000;
   border-radius: 20px;
   margin: 10px;
   box-shadow: 0px 10px 0px #1a1a1a;
@@ -80,6 +89,7 @@
     padding: 15px 25px;
     background-color: #fec89a;
     border: solid #1a1a1a 3px;
+    color: #000;
     border-radius: 20px;
     margin: 10px;
     box-shadow: 0px 10px 0px #1a1a1a;
