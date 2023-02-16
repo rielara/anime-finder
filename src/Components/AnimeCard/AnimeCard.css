@@ -39,6 +39,7 @@ h3 {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transform: perspective(500px);
     transform-style: preserve-3d;
+    cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani879.png), auto !important;
     
 }
 
@@ -49,5 +50,6 @@ h3 {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transition: all 0.3s ease-in-out;
     background-color:  #ab89ce;
+    cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani879.png), auto !important;
     }
 

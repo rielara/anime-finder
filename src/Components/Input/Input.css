@@ -45,7 +45,6 @@
     background-color: #eaf589;
     color: #000;
     text-decoration: none;
-    cursor: grab;
   }
   
   #button:hover {
@@ -68,7 +67,6 @@
   border-radius: 20px;
   margin: 10px;
   box-shadow: 0px 10px 0px #1a1a1a;
-  cursor: grab;
 
   }
 
@@ -93,7 +91,6 @@
     border-radius: 20px;
     margin: 10px;
     box-shadow: 0px 10px 0px #1a1a1a;
-    cursor: grab;
 
   }
 
